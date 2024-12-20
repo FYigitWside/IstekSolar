@@ -1,0 +1,17 @@
+
+body {
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  overflow-x: hidden;
+  background-color: #df7613;
+  color: white;
+}
+h2{
+  font-weight: bold;
+  color: white;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+  overflow-x: hidden;
+}
