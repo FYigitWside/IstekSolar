@@ -6,7 +6,7 @@ const Footer = () => {
 
     return(
         <>
-          <div><p>selam</p></div>
+          <div><p>selam</p></div> 
           <div></div>
         </>
     )
